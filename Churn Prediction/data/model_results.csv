@@ -1,0 +1,5 @@
+,Accuracy (%),F1-Score (%),AUC-ROC (%),CV F1 (%)
+Logistic Regression,80.03,58.74,83.81,58.91
+Decision Tree,77.61,50.86,82.02,52.47
+Random Forest,78.82,54.15,83.41,57.04
+XGBoost,79.25,57.31,83.52,56.99
