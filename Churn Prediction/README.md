@@ -240,20 +240,9 @@ Deployment
 
 ## 👨‍💻 Author
 
-**Shaurab**
-Acknobit — AI/ML Training & Coaching
+**Shaurab Kumar Jha**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-<b>Built with ❤️ as part of Acknobit's Data Science Capstone Program</b>
-</div>
